@@ -1,5 +1,7 @@
 # Sudoku Solver
 
+### Authored by Jimmy Sitompul
+
 This project is an automatic Sudoku solver written in Python. It uses the `pyautogui` library to simulate keyboard inputs and solve Sudoku puzzles on any application (e.g. https://sudoku.com) where you can input numbers using the keyboard. The solver utilizes a backtracking algorithm to fill in the Sudoku grid.
 
 ## Features
