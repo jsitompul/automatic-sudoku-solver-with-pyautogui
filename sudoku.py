@@ -29,8 +29,10 @@ while True:
     # Printing a message indicating that the current row is complete
     print('Row ' + str(len(sudoku)) + ' Complete.')
 
+
 # Adding a delay of 3 seconds before starting the solver
 time.sleep(3)
+
 
 # Function to check if placing a number in a specific position is valid
 def is_valid(row, col, num):
@@ -92,6 +94,7 @@ def solve_sudoku():
                 return  # Returning if the puzzle is solved
     # Printing the solved Sudoku puzzle
     print_sudoku(sudoku)
+
 
 # Calling the solve_sudoku function to solve the Sudoku puzzle
 solve_sudoku()
