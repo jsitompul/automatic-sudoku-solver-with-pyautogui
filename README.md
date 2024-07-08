@@ -18,8 +18,8 @@ This project is an automatic Sudoku solver written in Python. It uses the `pyaut
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/sudoku-solver.git
+    ```sh  
+    git clone https://github.com/jsitompul/automatic-sudoku-solver-with-pyautogui.git
     ```
 2. Navigate to the project directory:
     ```sh
