@@ -36,7 +36,7 @@ This project is an automatic Sudoku solver written in Python. It uses the `pyaut
     ```sh
     python sudoku_solver.py
     ```
-2. Input each row of the Sudoku puzzle when prompted. Input rows as a continuous string of numbers (e.g., `530070000`).
+2. Input each row of the Sudoku puzzle when prompted. Input rows as a string of 9-digit number (e.g., `530070000`).
 3. Once all rows are inputted, the script will solve the puzzle and automatically input the solution using `pyautogui`.
 
 ## How It Works
