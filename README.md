@@ -57,16 +57,25 @@ Once the puzzle is solved, the `print_sudoku` function uses `pyautogui` to simul
 
 Here's an example of how to input a Sudoku puzzle:
 
+
 Insert row: 530070000
 
 Insert row: 600195000
+
 Insert row: 098000060
+
 Insert row: 800060003
+
 Insert row: 400803001
+
 Insert row: 700020006
+
 Insert row: 060000280
+
 Insert row: 000419005
+
 Insert row: 000080079
+
 
 
 
