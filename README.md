@@ -83,7 +83,7 @@ The script will then solve the puzzle and input the solution automatically.
 
 ## Notes
 
-- Ensure the application where you want to input the solution is active before running the script.
+- Ensure the application where you want to input the solution is active before running the script. (Example: https://sudoku.com)
 - The script assumes a standard 9x9 Sudoku grid.
 
 ## Contributing
