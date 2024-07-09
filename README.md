@@ -1,4 +1,4 @@
-# Automatic Sudoku Solver with 'pyautogui'
+# Automatic Sudoku Solver
 
 ## Author
 
