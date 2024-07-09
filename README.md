@@ -1,6 +1,5 @@
 # Automatic Sudoku Solver
 
-![automatic-sudoku-solver](https://github.com/jsitompul/automatic-sudoku-solver-with-pyautogui/assets/151981311/7bcec737-aa3d-4a10-a337-1e3decea739c)
 
 ## Author
 
@@ -60,6 +59,10 @@ The script uses a backtracking algorithm to solve the puzzle. It checks for vali
 ### Outputting the Solution
 
 Once the puzzle is solved, the `print_sudoku` function uses `pyautogui` to simulate keyboard inputs. It inputs the solution into the currently active application window, moving the cursor appropriately after each number.
+
+## Demo
+
+![automatic-sudoku-solver](https://github.com/jsitompul/automatic-sudoku-solver-with-pyautogui/assets/151981311/7bcec737-aa3d-4a10-a337-1e3decea739c)
 
 ## Example
 
