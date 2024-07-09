@@ -1,5 +1,6 @@
 # Automatic Sudoku Solver
 
+
 ## Author
 
 Jimmy Sitompul
@@ -29,7 +30,7 @@ This project is an automatic Sudoku solver written in Python. It uses the `pyaut
     ```
 2. Navigate to the project directory:
     ```sh
-    cd sudoku-solver
+    cd automatic-sudoku-solver-with-pyautogui
     ```
 3. Install the required libraries:
     ```sh
@@ -58,6 +59,12 @@ The script uses a backtracking algorithm to solve the puzzle. It checks for vali
 ### Outputting the Solution
 
 Once the puzzle is solved, the `print_sudoku` function uses `pyautogui` to simulate keyboard inputs. It inputs the solution into the currently active application window, moving the cursor appropriately after each number.
+
+## Demo
+
+Below is the automatic Sudoku solver Python demo GIF (Apologies for the ads in the GIF).
+
+![automatic-sudoku-solver](https://github.com/jsitompul/automatic-sudoku-solver-with-pyautogui/assets/151981311/7bcec737-aa3d-4a10-a337-1e3decea739c)
 
 ## Example
 
