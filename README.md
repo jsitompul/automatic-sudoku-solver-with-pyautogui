@@ -30,7 +30,7 @@ This project is an automatic Sudoku solver written in Python. It uses the `pyaut
     ```
 2. Navigate to the project directory:
     ```sh
-    cd sudoku-solver
+    cd automatic-sudoku-solver-with-pyautogui
     ```
 3. Install the required libraries:
     ```sh
