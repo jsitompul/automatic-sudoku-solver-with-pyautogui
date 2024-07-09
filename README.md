@@ -62,6 +62,8 @@ Once the puzzle is solved, the `print_sudoku` function uses `pyautogui` to simul
 
 ## Demo
 
+Below is the automatic Sudoku solver Python demo GIF (Apologies for the ads in the GIF).
+
 ![automatic-sudoku-solver](https://github.com/jsitompul/automatic-sudoku-solver-with-pyautogui/assets/151981311/7bcec737-aa3d-4a10-a337-1e3decea739c)
 
 ## Example
