@@ -1,5 +1,7 @@
 # Automatic Sudoku Solver
 
+![automatic-sudoku-solver](https://github.com/jsitompul/automatic-sudoku-solver-with-pyautogui/assets/151981311/7bcec737-aa3d-4a10-a337-1e3decea739c)
+
 ## Author
 
 Jimmy Sitompul
