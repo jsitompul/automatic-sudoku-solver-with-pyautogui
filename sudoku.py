@@ -1,3 +1,7 @@
+#Name: Automatic Sudoku Solver
+#Author: Jimmy Sitompul
+#@MIT License
+
 # Importing the pyautogui library as pg to simulate keyboard and mouse actions
 import pyautogui as pg 
 # Importing numpy as np for potential numerical operations (although not used here)
