@@ -70,7 +70,7 @@ Below is the automatic Sudoku solver Python demo GIF (Apologies for the ads in t
 
 Here's an example of how to input a Sudoku puzzle:
 
-
+```bash
 Insert row: 530070000
 
 Insert row: 600195000
@@ -88,7 +88,7 @@ Insert row: 060000280
 Insert row: 000419005
 
 Insert row: 000080079
-
+```
 
 
 
