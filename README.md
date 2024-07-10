@@ -71,23 +71,23 @@ Below is the automatic Sudoku solver Python demo GIF (Apologies for the ads in t
 Here's an example of how to input a Sudoku puzzle:
 
 ```bash
-Insert row: 530070000
+Insert row 1: 530070000
 
-Insert row: 600195000
+Insert row 2: 600195000
 
-Insert row: 098000060
+Insert row 3: 098000060
 
-Insert row: 800060003
+Insert row 4: 800060003
 
-Insert row: 400803001
+Insert row 5: 400803001
 
-Insert row: 700020006
+Insert row 6: 700020006
 
-Insert row: 060000280
+Insert row 7: 060000280
 
-Insert row: 000419005
+Insert row 8: 000419005
 
-Insert row: 000080079
+Insert row 9: 000080079
 ```
 
 
